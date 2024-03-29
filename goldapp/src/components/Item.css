@@ -1,0 +1,9 @@
+.male {
+    box-shadow: #b4ffbe 0px 1px 4px;
+    background-color: #93ffa2;
+}
+
+.female {
+    box-shadow: #ffdef8 0px 1px 4px;
+    background-color: #ff8ee7;
+}
